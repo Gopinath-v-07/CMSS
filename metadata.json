@@ -1,0 +1,5 @@
+{
+  "name": "Student Complaint Management System",
+  "description": "A comprehensive React-based platform for students to voice concerns and for administrators to track and resolve them efficiently. Features AI-powered complaint analysis for admins.",
+  "requestFramePermissions": []
+}
